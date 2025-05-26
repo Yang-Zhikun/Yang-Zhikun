@@ -23,7 +23,7 @@ You can find my projects and code here on GitHub.
 
 ## Contact & Social / 联系方式 & 社交
 
-- Twitter: []
+- Twitter: [@zhikun_young]
 - GitHub: [Yang-Zhikun](https://github.com/Yang-Zhikun)
 
 ---
